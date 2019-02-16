@@ -1,0 +1,14 @@
+@import '../node_modules/antd/dist/antd.css';
+
+.drop{
+    margin-bottom: 20px;
+    margin-top: 10px;
+    
+}
+
+
+
+.button_drop{
+    width: 200px;
+    align-content: center;
+}
